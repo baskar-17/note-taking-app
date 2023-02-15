@@ -8,7 +8,17 @@ return(
     <div>
         <Heading />
         <Note />
-        <Note /><Note /><Note /><Note /><Note /><Note /><Note /><Note /><Note /><Note /><Note />
+        <Note />
+        <Note />
+        <Note />
+        <Note />
+        <Note />
+        <Note />
+        <Note />
+        <Note />
+        <Note />
+        <Note />
+        <Note />
         <Footer />
     </div>
 )
